@@ -23,7 +23,6 @@
          <li>course_flag. : the course flag like (best seller , hot , new … etc)</li>    
          <li>students_count. : how many students in each course</li>   
         </ul> 
-        <p><span style="color:red; font-size: 23px;">Why do I work on this dataset?🤔🤔</span><br><span style="color:#d69a04; font-size: 23px;">because it's a new idea to work with this data and I wan't get more statistical insists from this data it helps lecturers to predict his own course price 🕵️‍♂️🕵️‍♂️</span></p>   
         <ul style="color:#ff0000;font-size:18px">
         <hr>
 <center style="color:#FFD700;font-size:25px">the insights form this project </center><br>
