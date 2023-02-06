@@ -24,6 +24,8 @@
          <li>students_count. : how many students in each course</li>   
         </ul> 
         <p><span style="color:red; font-size: 23px;">Why do I work on this dataset?🤔🤔</span><br><span style="color:#d69a04; font-size: 23px;">because it's a new idea to work with this data and I wan't get more statistical insists from this data it helps lecturers to predict his own course price 🕵️‍♂️🕵️‍♂️</span></p>
+         <h3>1-First, run Notebook to get_cleand data it helps us with my App</h3>
+    <h3>2-I used Streamlit to Deploy this webApp</h3>
     </body>
 </html>
 
