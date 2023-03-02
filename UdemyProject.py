@@ -3,7 +3,6 @@ import streamlit as st
 import pandas as pd 
 import numpy as np
 from urllib.request import urlopen
-from bs4 import BeautifulSoup
 import validators
 import re
 import plotly.express as px
